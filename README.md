@@ -1,4 +1,5 @@
-# 🤖 ai-object-detectio
+AI -object-detection Using Tensorflow.
+https://eediga.github.io/AI-object-detection/
 
 Project Objective
 This is a web AI object detection. You can use it in your web browser. This web application uses the camera of your device to detect objects.

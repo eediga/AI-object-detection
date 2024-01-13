@@ -8,7 +8,7 @@ This is a web AI object detection. You can use it in your web browser. This web 
 - ✅ Range slider to control frame rate
 
 ## 🖼️ Images
-<a href="https://ibb.co/JCNgfJr"><img src="https://i.ibb.co/3kwQDZS/preview-combined.jpg" alt="preview-combined" width="100%"></a>
+<a href="https://1.bp.blogspot.com/-DyzSg_BCVFA/YMfS6Yu9XRI/AAAAAAAAEUc/QrsAyeXgEKIY5VikTHqtGXtwPVQ4gZLWwCLcBGAsYHQ/s0/tf%2Bpothole.png"><img src="https://miro.medium.com/v2/resize:fit:1358/1*ABi6irBxDXeOECQUfYRZGQ.jpeg" alt="preview-combined" width="100%"></a>
 
 ## 💪 Try it
 If you are not convinced yet just try it out here: https://woody.pizza/tensorflow/object-detection/
@@ -16,18 +16,3 @@ If you are not convinced yet just try it out here: https://woody.pizza/tensorflo
 ## 🌐 Multiple browser support
 Probably this will work with the most browsers, but here is a list which browsers I have tested: 
 
-|      Browser      | supported |
-|:-----------------:|:---------:|
-|      Firefox      |     ✅     |
-|      Chrome       |     ✅     |
-|        Edge       |     ✅     |
-| Internet Explorer |     ❌     |
-
-| Mobile Browser | supported |
-|:--------------:|:---------:|
-|     Firefox    |     ✅     |
-|     Chrome     |     ✅     |
-
-## ✌️ Credits
-- [Materialize](https://materializecss.com/)
-- [ml5js](https://ml5js.org/)
